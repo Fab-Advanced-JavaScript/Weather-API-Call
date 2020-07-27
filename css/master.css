@@ -1,0 +1,17 @@
+
+body {
+    background-color: lightblue;
+}
+
+ h1 {
+     text-align: center
+ }
+#size {
+    margin: auto;
+    width: 40em;
+}
+img {
+    width: 170px;
+    height: 150px;
+    margin-left: 5em;
+}
